@@ -18,9 +18,9 @@ It demonstrates the use of **Python basics** such as input/output, conditionals,
 - Program Flow: while loops for repeating actions  
 
 ## How to Run
-1. Download the `even_odd_checker.py` file  
+1. Download the `even_and_oddNum_checker.py` file  
 2. Open terminal or command prompt  
 3. Navigate to the folder containing the file  
 4. Run the program using:  
 ```bash
-python even_odd_checker.py
+python even_and_oddNum_checker.py
